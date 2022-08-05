@@ -1,9 +1,4 @@
-
-<img src="https://atsign.dev/assets/img/@dev.png?sanitize=true">
-
-### Now for a little internet optimism
-
-# The @ Foundation Code of Conduct
+# Code of Conduct
 
 Based on
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
@@ -67,8 +62,8 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-conduct@atsign.com.
+reported to the repo owner responsible for enforcement.
+
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
