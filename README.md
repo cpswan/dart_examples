@@ -17,4 +17,4 @@ idea for improvements.
 
 ## Maintainers
 
-Created by @cpswan
+Created by [@cpswan](https://github.com/cpswan)
