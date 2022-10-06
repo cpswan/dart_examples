@@ -5,3 +5,12 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+  # Maintain dependencies for pub.dev packages
+  - package-ecosystem: "pub"
+    directory: "/args_example"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "pub"
+    directory: "/at_cram_cli"
+    schedule:
+      interval: "daily"
